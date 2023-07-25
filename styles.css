@@ -1,11 +1,7 @@
 body {
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url("images/background.jpg") 25%;
 }
 
 .avatar {
@@ -15,7 +11,7 @@ body {
 
 .card {
     width: 400px;
-    margin: 0 auto;
+    margin: 24 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -49,4 +45,11 @@ body {
     align-items: flex-start;
     gap: 12px;
     align-self: stretch;
+}
+
+.spotify{
+    margin: auto; 
+    display: flex;
+    justify-content: space-around; 
+    bottom: 0;
 }
