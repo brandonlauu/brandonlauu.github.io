@@ -5,19 +5,19 @@ body {
 }
 
 h1{
-    font-size: 20px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 700;
 }   
 
 h2 {
-    font-size: 16px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 700; 
 }
 
 p{
-    font-size: 16px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 500;   
 }
@@ -36,7 +36,7 @@ p{
     text-align: center;
     background: #FAF3DD;
     color: #2b2839;
-    line-height: 150%;  
+    line-height: 50%;  
     border: 2px double #B8F2E6; 
     border-radius: 8px;
 }
