@@ -14,12 +14,14 @@ h2 {
     font-size: 24px;
     font-style: normal;
     font-weight: 700; 
+    line-height: 50%;
 }
 
 p{
     font-size: 24px;
     font-style: normal;
-    font-weight: 500;   
+    font-weight: 500;
+    line-height: 50%;  
 }
 
 .avatar {
@@ -36,7 +38,6 @@ p{
     text-align: center;
     background: #FAF3DD;
     color: #2b2839;
-    line-height: 50%;  
     border: 2px double #B8F2E6; 
     border-radius: 8px;
 }
