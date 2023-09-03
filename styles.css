@@ -60,6 +60,7 @@ p{
 
 .top{
     display: flex;
+    flex-direction: row;
     height: 150px;
     align-items: flex-start;
     gap: 28px;
