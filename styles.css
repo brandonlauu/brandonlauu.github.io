@@ -6,23 +6,23 @@ body {
 }
 
 h1{
-    font-size: 20px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 150%;
 }   
 
 h2 {
-    font-size: 16px;
+    font-size: 14px;
     font-style: normal;
-    font-weight: 700; 
+    font-weight: 500; 
     line-height: 150%;
 }
 
 p{
-    font-size: 14px;
+    font-size: 13px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     line-height: 150%;  
 }
 
@@ -33,7 +33,7 @@ p{
 
 .card {
     /* background & colors */
-    width: 400px;
+    width: 450px;
     margin: 24 auto;
     padding: 20px;
     background: #FAF3DD;
@@ -61,7 +61,7 @@ p{
 .top{
     display: flex;
     height: 150px;
-    align-items: flex-start;
+    align-items:center;
     gap: 28px;
     align-self:stretch;
 }
